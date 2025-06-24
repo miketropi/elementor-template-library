@@ -2,6 +2,8 @@
 
 A comprehensive template library for Elementor with advanced features, modern UI, and extensible architecture.
 
+![Preview](preview.jpeg)
+
 ## 📋 Overview
 
 Elementor Template Library is a powerful WordPress plugin that extends Elementor's capabilities by providing a curated collection of professional templates, advanced filtering, and seamless integration with the Elementor editor.
