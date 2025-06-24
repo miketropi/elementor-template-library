@@ -1,0 +1,18 @@
+.etl-tailwind-scope--reset-all {
+   
+  * {
+    all: revert-layer;
+  }
+}
+/** 
+  font-space-mono
+*/
+.font-space-mono {
+  font-family: 'Space Mono', sans-serif;
+}
+
+.font-arial {
+  font-family: Arial, sans-serif;
+}
+
+@import "tailwindcss";
