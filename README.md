@@ -2,7 +2,7 @@
 
 A comprehensive template library for Elementor with advanced features, modern UI, and extensible architecture.
 
-![Preview](preview.jpeg)
+![Preview](https://github.com/miketropi/elementor-template-library/blob/master/images/pewview.jpeg?raw=true)
 
 ## 📋 Overview
 
